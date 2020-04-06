@@ -5,6 +5,7 @@ public class mygol {
         System.out.println("dddd11sdsdsd");
         System.out.println("dsd32dddsdsd");
         System.out.println("dsds2333dsd");
+        System.out.println("dsds23dewrde33dsd");
 
     }
 }
